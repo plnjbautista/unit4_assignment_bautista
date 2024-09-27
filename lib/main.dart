@@ -194,10 +194,12 @@ class ProfilePage extends StatelessWidget {
                       SizedBox(height: 10),
                       // SizedBox is used to add vertical space between the biography title and text.
                       Text(
-                        'Growing up in the small, close-knit town of Sapian in Capiz, I was surrounded by a community where everyone knew each other, but as an introvert, I often felt a bit out of place.'
-                        'Now in my third year at West Visayas State University, I realize that not much has changed; my introverted nature still influences how I connect with others. My journey has been both'
-                        'challenging and rewarding, particularly because pursuing this course wasn’t something I originally planned. To cope with stress, I often turn to lighthearted series and films, enjoy'
-                        'peaceful walks, and find comfort in cooking. These activities provide me with a much-needed escape and allow me to recharge as I navigate my academic path.',
+                        'I grew up in the small town of Sapian in the province of Capiz. Despite being surrounded by a close-knit community, I’ve always been an introvert.'
+                        ' Currently, I am in my third year of pursuing Bachelor of Science in Computer Science at West Visayas State University.'
+                        ' My journey has been both challenging and rewarding. Initially, computer science wasn’t a choice, but I’ve grown to appreciate the field.'
+                        ' To manage the stress that comes with academic life, I find comfort in simple pleasures like watching lighthearted shows, taking peaceful walks, and cooking.'
+                        ' The Big Bang Theory, The Amazing World of Gumball, and Derry Girls are my go-tos.'
+                        ' These activities serve as my escape from the pressures of studying, allowing me to recharge and stay focused.',
                         style: TextStyle(color: Colors.black, fontSize: 16),
                       ),
                     ],
